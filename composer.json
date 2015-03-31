@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ifsnop/mysqldump-php": "1.*",
+        "phpmailer/phpmailer": "~5.2"
+    }
+}
